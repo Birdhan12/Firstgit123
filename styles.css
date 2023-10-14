@@ -1,0 +1,79 @@
+.engage{
+    font-size: 35px;
+    text-align: center;
+    height: 50px;
+    background-color: lightgreen;
+}
+.object{
+    text-align: center;
+    margin-top: 0px;
+    background-color: lightgreen;
+    height: 40px;
+    margin-bottom: 0px;
+}
+input{
+    background-color: blue;
+    color: white;
+}
+.text{
+    font-size: 25px;
+}
+.lesson{
+    font-size: 15px;
+}
+section{
+    text-align: center;
+}
+.sub{
+    text-align: center;
+}
+.box1{
+    height: 200px;
+    width: 200px;
+    margin-left: 18%;
+    margin-top: 5%;
+    font-size: 20px;
+    background-color: grey;
+    text-align: center;
+padding: 5%;
+
+
+}
+aside{
+    height: 200px;
+    width: 200px;
+    margin-left: 150%;
+    margin-top: -100px;
+    font-size: 20px;
+    background-color: grey;
+    text-align: center;
+    padding: 38%
+}
+footer{
+    height: 200px;
+    width: 200px;
+    margin-left: 340%;
+    margin-top: -352px;
+    font-size: 20px;
+    background-color: grey;
+    text-align: center;
+    padding: 38%;
+}
+.eff{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 2%;
+margin-left: -15%;
+
+}
+.comp{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 2%;
+    margin-right: -15%;
+}
+.dyn{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 2%;
+}

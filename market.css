@@ -1,0 +1,102 @@
+.about{
+    display: flex;
+    font-size: 20px;
+}
+#about{
+    margin-left: 50px;
+}
+#order{
+    margin-left: 30px;
+}
+#wish{
+    margin-left: 30px;
+}
+#eng{
+    margin-left: 900px;
+}
+#arr{
+    margin-left: 5px;
+}
+.line{
+    display: flex;
+    flex-direction: column;
+}
+.U{
+margin-left: 310px;
+margin-top: -45px
+
+}
+.N{
+margin-left: 310px;
+margin-top: -10px;
+}
+.D{
+margin-left: 310px;
+margin-top: -10px;
+}
+.E{
+margin-left: 310px;
+margin-top: -10px;
+}
+.shop{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.b{
+    margin-left: 380px;
+    margin-top: -34px;
+
+}
+.my{
+    margin-left: 1150px;
+    margin-top: -35px;
+}
+.acc{
+    margin-left: -20px;
+    
+}
+.cart{
+    margin-left: 30px;
+}
+#bag{
+    margin-top: 30px;
+}
+.spec{
+    margin-left: 650px;
+    margin-top: -320px;
+}
+.avi{
+margin-left: 840px;
+margin-top: -80px;
+}
+.price{
+    margin-left: 840px;
+}
+.sne{
+    margin-top: 80px;
+    margin-left: 650px;
+}
+.cas{
+    margin-left: 840px;
+    margin-top: -80px;
+}
+.shoe{
+    margin-left: 840px;
+}
+.shirt{
+margin-top: 80px;
+margin-left: 650px;
+}
+.tees{
+margin-left: 840px;
+margin-top: -80px;
+}
+.ts{
+margin-left: 840px;
+}
+.shop{
+    border: 3px solid orange;
+    padding: 5px;
+}
+
